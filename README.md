@@ -2,7 +2,7 @@
 
 <h1>Projeto de API simples com Express</h1>
 
-<h3>Técnologias</h3>
+<h3>Tecnologias</h3>
 <ul>
     <li><strong>Express:</strong> para gerenciamento de requisições</li>
     <li><strong>Body-Parse:</strong> para conversão de dados da requisição</li>
